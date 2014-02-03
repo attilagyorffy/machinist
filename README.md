@@ -296,3 +296,7 @@ Girl](http://github.com/thoughtbot/factory_girl/tree/master). Machinist was
 written because I loved the idea behind Factory Girl, but I thought the
 philosophy wasn't quite right, and I hated the syntax.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/liquid/machinist/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
